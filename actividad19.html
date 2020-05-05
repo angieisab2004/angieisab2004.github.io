@@ -42,6 +42,12 @@
         height: auto;
     }
 
+    .foto-principal {        
+        text-align: center;
+        margin: 0px auto;
+        position: relative;
+    }
+
     .resaltado {
         font-weight: bolder;
         color: red;
@@ -58,7 +64,9 @@
 
     <h1>Todo sobre los <span class="resaltado">gatos</span> que me gustan!</h1>
 
-    <img src="imagenes/web1.jpeg" class="fotos">
+    <div class="foto-principal">
+        <img src="imagenes/web1.jpeg" class="fotos">
+    </div>
     
     <h2 id="cats-why">¿Porqué me gustan?</h2>
 
@@ -79,7 +87,7 @@
     <h3 class="cats-famous">6 razas de <span class="resaltado">gatos</span> que conozco:</h3>
 
     <div id="fondo">
-        
+
         <ol>
             <li>Persa</li>
             <li>Bengala</li>
@@ -108,7 +116,8 @@
 
 
     <!-- Ahora les muestro las fotos de mis gatos -->
-    
+
+
     <table id="mis-gatos" border="1">
         <thead>
             <tr>
@@ -135,6 +144,7 @@
             </tr>
         </tbody>
     </table>
+
     
 </body>
 </html>
