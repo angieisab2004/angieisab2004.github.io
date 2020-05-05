@@ -33,7 +33,7 @@
             </tr>
             <tr>
                 <td>#15</td>
-                <td><a href="actividad15.html">Actividad 15</a></td>
+                <td><a href="https://angieisab2004.github.io/">Actividad 15</a></td>
                 <td>Subir la página a GitHub. Hice esta tabla para organizar la entrega de las actividades.</td>
             </tr>
             <tr>
