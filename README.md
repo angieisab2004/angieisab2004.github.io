@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title></title>
@@ -20,7 +19,7 @@
             <tr>
                 <td>#4</td>
                 <td><a href="actividad4.html">Actividad 4</a></td>
-                <td></td>
+                <td>Empiezo mi página web de gatos con lo que he aprendido de HTML y CSS</td>
             </tr>
             <tr>
                 <td>#8</td>
