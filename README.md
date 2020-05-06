@@ -44,7 +44,7 @@
             <tr>
                 <td>#23</td>
                 <td><a href="actividad23.html">Actividad 23</a></td>
-                <td></td>
+                <td>Utilice múltiples clases en CSS, combiné clases y selectores de elementos en CSS, además de selectores descendientes.</td>
             </tr>
             <tr>
                 <td>#25</td>
